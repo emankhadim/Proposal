@@ -3,7 +3,7 @@ Project of Big Data
 Group Members: 
 	Ahsan Ali Malik L1S16BSCS0046	
 	Eman Khadim	L1S18BSCS0054
-	Bissam Nasir 	L1S18BSCS0054
+	Bissam Nasir 	L1S18BSCS0042
 Dataset:
 	Used Cars https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 Craigslist is the world's largest collection of used vehicles for sale. This dataset includes every used vehicle entry within the United States on Craigslist.
